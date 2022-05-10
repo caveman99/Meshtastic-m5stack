@@ -1,9 +1,8 @@
 # Meshtastic-m5stack
-Variant files for partial m5stack Core support. No Core2 for now!
 
-Drop them into `/variants/m5stack_core` directory in the Meshtastic firmware repository.
-This will add partially working m5stack targets as private hardware.
-This effort may be merged with the main firmware once it is fully working.
+**This has been merged into https://github.com/meshtastic/Meshtastic-device**
+
+Variant files for partial m5stack Core support. No Core2 for now!
 
 Supported: LORA868 Module (RA-02H based)
 
